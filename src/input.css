@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+
+@utility bg-image-index{
+    background-image: url('./IMG/imagenIndex_cropped.png');
+}
+
+@utility bg-image-indexMobile {
+    background-image: url('./IMG/imageIndesMobile.png');
+}
+
